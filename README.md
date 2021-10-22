@@ -1,6 +1,11 @@
 # vscode-eslint-1355
 
-## Project setup steps
+## Bug reproduction steps
+
+- Open index.ts
+- Ctrl+Shift+P (command palette) > Format document
+
+## How I setup the project...
 
 - `npm init -y`
 - `npx tsc init`
